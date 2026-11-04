@@ -157,6 +157,10 @@ ul li a:hover {
 
 }
 
+.main ul li a{
+	color: #E2E800;
+}
+
 .main h2 {
 	color: #E2E800;
 	padding-bottom: 0.5em;
