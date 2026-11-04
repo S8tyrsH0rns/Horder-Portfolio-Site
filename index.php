@@ -80,8 +80,33 @@
 </div>
 
 <div class="main">
+	<h2>Hello World!</h2>
 	<p>Hello and Welcome to my little corner of the internet! I'm Thomas, A Computer Science Student at Aberystwyth University with an ever-growing interest in software development, creative projects and gaining a deeper knowledge about the world around me. This site is where I will be sharing the things I've been working on, ideas I have been exploring and the hobbies I enjoy.</p>
-
+	<p>Please feel free to have a look about, Learn about who I am and what I've been upto.</p>
+	<h2>Key Skills and Information</h2>
+	<p style="font-size: 2em; align-items: center; justify-content: center; display: flex;">3rd Year Student / Projects Completed: 4 / Open To Work</p>
+	<div class="education-slot" style="display: flex; justify-content: space-around; padding-top: 1.5em; padding-bottom: -1em;">
+		<ul>
+			<li>Java</li>
+			<li>JavaScript</li>
+			<li>C#</li>
+		</ul>
+		<ul>
+			<li>Python</li>
+			<li>PostgreSQL</li>
+			<li>Database Design</li>
+		</ul>
+		<ul>
+			<li>HTML</li>
+			<li>Agile Methodology</li>
+			<li>PHP</li>
+		</ul>
+		<ul>
+			<li>CSS</li>
+			<li>Team Leadership</li>
+			<li>Blender</li>
+		</ul>
+	</div>
 </div>
 
 </body>

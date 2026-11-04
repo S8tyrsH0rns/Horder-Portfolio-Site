@@ -50,13 +50,15 @@
 		<h4>/ JoggleCube</h4>
 		<img src="img/JoggleCube.PNG" alt="A Screenshot of the JOGGLECUBE.">
 		<p>A word game made using Java and JavaFX in which you make words out of a 3x3x3 grid of letters. This was part of a group project in which I acted as Project Leader in an AGILE style development process.</p>
-		<a href="chess.horder.it" target="_BLANK">Read the blog post!</a>
+		<a href="blogs/jogglecube-dev.php/" target="_BLANK">Read the blog post!</a>
 	</div>
 </div>
-
-
-<script>
-$('.')
-
-</script>
+<div class="project-row">
+	<div class="project-card">
+		<h4>/ VR Tour Of School</h4>
+		<img src="img/riftS.jpg" alt="Wikipedia Image of Oculus Rift S.">
+		<p>For my IT Coursework in AR and VR I created a Virtual Reality Tour of my schools Maths, English and Computer Science Departments in Unreal Engine</p>
+		<a href="blogs/vr-tour.php/" target="_BLANK">Read the blog post!</a>
+	</div>
+</div>
 </body>

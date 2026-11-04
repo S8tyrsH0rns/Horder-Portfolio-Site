@@ -406,3 +406,7 @@ ul li a:hover {
 .blog-redirect {
 	text-decoration: none;
 }
+
+.toggle {
+	cursor: pointer;
+}

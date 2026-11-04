@@ -37,7 +37,7 @@
 	<button class="toggle" data-topic="web">Web Development</button>
 	<button class="toggle" data-topic="swe">Software Engineering</button>
 	<button class="toggle" data-topic="out">Outdoor Exploring</button>
-	<button class="toggle" data-topic="art">Creative Endevours</button>
+	<button class="toggle" data-topic="art">Creative Endeavours</button>
 	<button class="toggle" data-topic="msc">Miscellaneous </button>
 </div>
 <div class="seperator"></div>
@@ -50,12 +50,22 @@
 			<p>In this post I also discuss how websites are some of the purest form of self expression in our modern age and how web-rings can create communities whilst retaining control over your own space.</p>
 		</div>
 	</a>
-	<div class="blog-card" data-category="swe">
-	<h2>Blog 001 - JoggleCube Development</h2>
-	<img src="img/JoggleCube.PNG/" alt="A Screenshot of JoggleCube Game.">
-	<p>My experiences taking on the role of project leader for my CS22120 Software Engineering coursework in an AGILE development lifecycle. I worked with a group of 7 other students as we created a word game using Java and JavaFX.</p>
-	<p>The game consists of a 3x3x3 grid of cubes, each containing a letter. The task was to link cubes with other adjacent letter cubes to make a word that exists within a dictionary.</p>
-	</div>
+	<a href="blogs/jogglecube-dev.php/" class="blog-redirect">
+		<div class="blog-card" data-category="swe">
+			<h2>Blog 001 - JoggleCube Development</h2>
+			<img src="img/JoggleCube.PNG/" alt="A Screenshot of JoggleCube Game.">
+			<p>My experiences taking on the role of project leader for my CS22120 Software Engineering coursework in an AGILE development lifecycle. I worked with a group of 7 other students as we created a word game using Java and JavaFX.</p>
+			<p>The game consists of a 3x3x3 grid of cubes, each containing a letter. The task was to link cubes with other adjacent letter cubes to make a word that exists within a dictionary.</p>
+		</div>
+	</a>
+	<a href="blogs/vr-tour.php/" class="blog-redirect">
+		<div class="blog-card" data-category="swe">
+			<h2>Blog 000 - VR Tour of School</h2>
+			<img src="img/riftS.jpg/" alt="Oculus Rift S Headset.">
+			<p>During sixth form I achieved top in class for my IT Coursework where I created a Virtual Reality Tour of a number of classrooms.</p>
+			<p>The Tour covers three departments in my Secondary School and was created to advertise the school in an innovative way. The departments covered were English, Maths and Computer Science.</p>
+		</div>
+	</a>
 </div>
 
 <script>
