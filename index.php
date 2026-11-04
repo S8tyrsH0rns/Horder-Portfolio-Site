@@ -39,7 +39,7 @@
 			<li>|</li>
 			<li> Java</li>
 			<li>|</li>
-			<li> C++</li>
+			<li> C#</li>
 			<li>|</li>
 			<li> AGILE Methodology</li>
 			<li>|</li>
@@ -62,7 +62,7 @@
 			<li>|</li>
 			<li> Java</li>
 			<li>|</li>
-			<li> C++</li>
+			<li> C#</li>
 			<li>|</li>
 			<li> AGILE Methodology</li>
 			<li>|</li>
@@ -85,7 +85,7 @@
 	<p>Please feel free to have a look about, Learn about who I am and what I've been upto.</p>
 	<h2>Key Skills and Information</h2>
 	<p style="font-size: 2em; align-items: center; justify-content: center; display: flex;">3rd Year Student / Projects Completed: 4 / Open To Work</p>
-	<div class="education-slot" style="display: flex; justify-content: space-around; padding-top: 1.5em; padding-bottom: -1em;">
+	<div class="education-slot fit">
 		<ul>
 			<li>Java</li>
 			<li>JavaScript</li>

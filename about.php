@@ -41,8 +41,8 @@
 	<p>I am always striving to experience new things, find new parts of town that I haven't seen before and explore off the beaten path. Whilst walking through the forest I try to pay close attention to the different plants that grow around me. I like to think that I am the same with learning; always in search for more efficient ways to create software that people actually want to use. I often feel like going on walks can bring newfound inspiration for all aspects of my life.</p>
 </div>
 <div class="main-02">
-	<img src="img/nationalLibrary.jpg">
 	<h2>[02] Education</h2>
+	<img src="img/nationalLibrary.jpg">
 	<div class="education-slot">
 		<h5>BSc Computer Science - Aberystwyth University</h5>
 		<p>Studied modules such as Algorithm Design and Data Structures, Programming for the Web, Software Engineering and Robotics and Embedded Systems. </p>

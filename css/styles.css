@@ -206,8 +206,9 @@ ul li a:hover {
 	object-fit: contain;
 	margin-right: 1em;
 	
-	height: 20em;
+	height: 15em;
 	border-bottom: 4px solid #E2E800;
+
 }
 
 .education-slot {
@@ -229,6 +230,13 @@ ul li a:hover {
 .education-slot ul{
 	padding: 0em 1em;
 	
+}
+
+.fit {
+	display: flex; 
+	justify-content: space-around; 
+	padding-top: 1.5em; 
+	padding-bottom: -1em;
 }
 
 .flex {
@@ -409,4 +417,89 @@ ul li a:hover {
 
 .toggle {
 	cursor: pointer;
+}
+
+@media screen and (max-width: 780px) {
+	.main {
+		padding: 1em;
+	}
+	
+	.main img {
+		float: right;
+		object-fit: contain;
+		margin: auto;
+		height: 50%;
+		
+		align-content: center;
+	
+		margin-top: 0em;
+		height: 10em;
+		border-bottom: 4px solid #E2E800;
+	}
+	
+	.main-02 img {
+		float: right;
+		object-fit: contain;
+		margin: auto;
+		height: 50%;
+		width: 100%;
+		
+		align-content: center;
+	
+		margin-top: 0em;
+		height: 10em;
+		border-bottom: 4px solid #E2E800;
+		margin-bottom: 2em;
+	}
+	
+	.navigation-bar ul li a {
+		padding: 0.85em 0.3em;
+		font-size: 0.75em;
+	}
+	
+	.logo {
+		font-size: 0.8em;
+	}
+	
+	.web-ring {
+		padding: 0em;
+	}
+	
+	.marquee {
+		font-size: 0.85em;
+		gap: 0.75rem;
+	}
+	
+	.marquee-content {
+		flex: 0 0 100%;
+		min-width: 100%;
+		gap: 0.75rem;
+		flex-wrap: nowrap;
+	}
+	
+	.fit {
+		justify-content: space-between;
+		gap: 0.5em;
+		margin: 0;
+	}
+	
+	.fit ul {
+		width: calc(50% - 0.5em);
+		margin: 0;
+		padding: 0 0.5em;
+		
+		font-size: 0.75em;
+	}
+	
+	.project-row {
+	display: grid;
+	}
+	
+	.project-card {
+		width: 100%;
+	}
+	
+	.right, .left {
+		font-size: 0.8em;
+	}
 }
