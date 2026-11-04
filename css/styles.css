@@ -421,6 +421,14 @@ ul li a:hover {
 }
 
 @media screen and (max-width: 780px) {
+	h1 {
+		font-size: 0.8em;
+	}
+	
+	h5 {
+		font-size: 0.9em;
+	}
+	
 	.main {
 		padding: 1em;
 	}
