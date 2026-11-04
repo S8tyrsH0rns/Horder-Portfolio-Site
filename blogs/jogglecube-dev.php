@@ -12,7 +12,7 @@
 <div class="navigation-bar">
 	<ul>
 		<li class="logo">Thomas <br/> Horder</li>
-		<li><a href="/index.php/">[00] Home</a></li>
+		<li><a href="/index.php">[00] Home</a></li>
 		<li><a href="/about.php">[01] About Me</a></li>
 		<li><a href="/projects.php">[02] Projects</a></li>
 		<li class="selected"><a href="/blog.php">[03] Blog</a></li>
