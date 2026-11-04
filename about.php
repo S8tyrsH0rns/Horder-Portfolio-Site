@@ -61,7 +61,7 @@
 
 <div class="main">
 	<h2>[03] Beyond Development</h2>
-	<img src="img/aberystwyth.jpg">
+	<img src="img/TenCandles.png">
 	<p>Outside of education I enjoy a variety of other hobbies and interests...</p>
 	<h5>Hiking</h5>
 	<p>I enjoy walking through nearby woodlands and forests, exploring the wilderness and taking in the calmness of nature. I often listen to ambient game soundtracks like C418's Volume Beta and No Man's Sky: Music for an Infinite Universe whilst walking and just take in my surroundings. I find hiking to be a free, easy way to de-stress in an almost mediative way.</p>

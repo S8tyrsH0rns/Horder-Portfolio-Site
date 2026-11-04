@@ -57,7 +57,7 @@
 	<div class="project-card">
 		<h4>/ VR Tour Of School</h4>
 		<img src="img/riftS.jpg" alt="Wikipedia Image of Oculus Rift S.">
-		<p>For my IT Coursework in AR and VR I created a Virtual Reality Tour of my schools Maths, English and Computer Science Departments in Unreal Engine</p>
+		<p>Earned an award for best in Class ror my IT Coursework in AR and VR. I created a Virtual Reality Tour of my schools Maths, English and Computer Science Departments in Unreal Engine.</p>
 		<a href="blogs/vr-tour.php" target="_BLANK">Read the blog post!</a>
 	</div>
 </div>

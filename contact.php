@@ -40,7 +40,7 @@
 	
 	<div class="split right">
 		<p>LinkedIn: <a href="https://www.linkedin.com/in/thomas-horder-31703a416" target="_blank">Thomas Horder</a></p>
-		<p>GitHub: <a href="https://github.com/S8tyrsH0rns" target="_blank">S8tyrsH0rns</a></p>
+		<p>GitHub: <a href="https://github.com/S8tyrsH0rns" target="_blank">Horder</a></p>
 	
 		<form action="https://formspree.io/f/xljjwvrj" method="POST">
 			<label>Email: <input type="email" name="email" required></label>
